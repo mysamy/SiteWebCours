@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+html {
+    font-size: 62.5%;
+
+}
+
+body {
+    width: 100vw;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #7f00ff, #00bfff);
+    
+}
